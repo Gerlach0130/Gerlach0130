@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Gerlach</h1>
-<h3 align="center">A passionate full stack web developer from Nashville, Tennessee, USA</h3>
+<h3 align="center">Passionate full stack web developer from Nashville, Tennessee, USA</h3>
 
 - 🔭 I’m currently working on [Car Reviewer](https://github.com/Gerlach0130/car-reviewer)
 
