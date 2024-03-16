@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Project portfolio [https://gerlach0130.github.io/project-portfolio/](https://gerlach0130.github.io/project-portfolio/)
+- 👨‍💻 Project portfolio [https://github.com/Gerlach0130/project-portfolio](https://github.com/Gerlach0130/project-portfolio)
 
 - 💬 Ask me about **MERN Stack**
 
