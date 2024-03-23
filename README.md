@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mgerlach0130@gmail.com**
 
-- 📄 Resume: [https://drive.google.com/file/d/1RaMSjLbF9OLqIaxc5biv8S_wrhRRet7C/view?usp=sharing](https://drive.google.com/file/d/1RaMSjLbF9OLqIaxc5biv8S_wrhRRet7C/view?usp=sharing)
+- 📄 Resume: [Here](https://drive.google.com/file/d/1iDC43Q92KYe_UPyskOTpF3JEItoxXO2T/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
