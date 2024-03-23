@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Project portfolio [https://github.com/Gerlach0130/project-portfolio](https://github.com/Gerlach0130/project-portfolio)
+- 👨‍💻 Project portfolio [https://main--splendorous-blancmange-1e1f77.netlify.app/](https://main--splendorous-blancmange-1e1f77.netlify.app/)
 
 - 💬 Ask me about **MERN Stack**
 
