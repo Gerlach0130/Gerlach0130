@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate full stack web developer from Nashville, Tennessee, USA</h3>
 
-- 🔭 I’m currently working on [Kennel Tech]([https://github.com/AndrueGage/Kennel-Tech])
+- 🔭 I’m currently working on [Kennel Tech](https://github.com/AndrueGage/Kennel-Tech)
 
 - 🌱 I’m currently learning **React**
 
