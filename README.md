@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kennel Tech](https://github.com/AndrueGage/Kennel-Tech)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 Project portfolio: [Here](https://main--splendorous-blancmange-1e1f77.netlify.app/)
 
